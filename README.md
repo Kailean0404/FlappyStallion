@@ -2,11 +2,17 @@
 This is a game.
 
 Kailean Hunter==> Team Leader. Check point leader.
+
 (Sub-groups created to prevent confusions between members. All members discuss everything at the check point.)
+
 Ayse Ergin and Ibrahim Sever==> Sub-group 1. 
+
 Andrian and Savior==> Sub-group 2
+
 (Everybody distributes coding)
+
 Kailean Hunter and Ayse Ergin==> Design.
+
 Ibrahim Sever==> Graphics.
 
 
