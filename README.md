@@ -31,7 +31,7 @@ Tuesday, Mar. 6th==>
 ______________________________________________________________________________________________________________________________________
 Friday, Mar. 9th==>
 ______________________________________________________________________________________________________________________________________
-Tuesday, Mar. 20th==>
+Tuesday, Mar. 20th==> First group meeting back after break. Group members examined code written over the break and discussed progress of the working product so far. Also watched webinar again together in order to discuss the project report. Will set duties on writing the reoprt during our next meeting since some members couldnt show up today. 
 ______________________________________________________________________________________________________________________________________
 Friday, Mar. 23rd==>
 ______________________________________________________________________________________________________________________________________
