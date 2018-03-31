@@ -35,3 +35,4 @@ Tuesday, Mar. 20th==> First group meeting back after break. Group members examin
 ______________________________________________________________________________________________________________________________________
 Friday, Mar. 23rd==> Meet and discussed work on the Project report. Agreed on seperation of parts to finish report. Also uploaded more art work to consider for the project to github. Will continue to discuss future work.
 ______________________________________________________________________________________________________________________________________
+Friday, Mar. 30th==> Group met. Subgroups worked and discussed on their own part. Meeting took 1.5 hours.
