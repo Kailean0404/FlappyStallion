@@ -27,12 +27,20 @@ Tuesday, Feb. 27th==> Group didnt meet due to busy scheduels
 ______________________________________________________________________________________________________________________________________
 Friday, Mar. 2nd==>Group meet, discussed project requirments and added a section to GANTT chart for project requirments. Talked about work to do over spring break since next week is midterm week we may not be able to meet. Decided that everyone should have some type of product by the next meeting after spring break.
 ______________________________________________________________________________________________________________________________________
-Tuesday, Mar. 6th==>
+Tuesday, Mar. 6th==>**Mid-Terms** May not meet
 ______________________________________________________________________________________________________________________________________
-Friday, Mar. 9th==>
+Friday, Mar. 9th==>The group met and updated each other. We have a working product. We talked about how to improve it and set Spring break goals.
 ______________________________________________________________________________________________________________________________________
 Tuesday, Mar. 20th==> First group meeting back after break. Group members examined code written over the break and discussed progress of the working product so far. Also watched webinar again together in order to discuss the project report. Will set duties on writing the reoprt during our next meeting since some members couldnt show up today. 
 ______________________________________________________________________________________________________________________________________
 Friday, Mar. 23rd==> Meet and discussed work on the Project report. Agreed on seperation of parts to finish report. Also uploaded more art work to consider for the project to github. Will continue to discuss future work.
 ______________________________________________________________________________________________________________________________________
 Friday, Mar. 30th==> Group met. Subgroups worked and discussed on their own part. Meeting took 1.5 hours.
+______________________________________________________________________________________________________________________________________
+Tuesday, Apr. 3rd==> Group decided not to meet today.
+______________________________________________________________________________________________________________________________________
+Tuesday, Apr. 6th==> Group meet. Disscussed game sounds on the project. Found flapping sounds and great game music to use at the main menu. Also discussed the implementation of a difficulty enhancment on higher score counts. Also discussed methods testing a little. 
+______________________________________________________________________________________________________________________________________
+Friday, Apr. 10th==> Group didnt meet today. Everyone is busy with studying.Will meet on Friday.
+______________________________________________________________________________________________________________________________________
+Friday, Apr. 13th==> Group didnt meet today as well due to multiple personal reasons. Will make it a mission to meet Tuesday for sure.
