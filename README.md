@@ -14,6 +14,8 @@ Andrian and Savior==> Sub-group 2
 Kailean Hunter and Ayse Ergin==> Design.
 
 Ibrahim Sever==> Graphics.
+
+Meeting Notes:
 ______________________________________________________________________________________________________________________________________
 Friday, Feb. 9th.==> We met at 1.30 and it took around an hour. We discussed about our roles in the team. However, we could not specify exact roles for each of us because we are still working on what kind of responsibilities we have in the project.
 ______________________________________________________________________________________________________________________________________
@@ -44,3 +46,9 @@ ________________________________________________________________________________
 Friday, Apr. 10th==> Group didnt meet today. Everyone is busy with studying.Will meet on Friday.
 ______________________________________________________________________________________________________________________________________
 Friday, Apr. 13th==> Group didnt meet today as well due to multiple personal reasons. Will make it a mission to meet Tuesday for sure.
+______________________________________________________________________________________________________________________________________
+Friday, Apr. 17th==> Only two members made it to the meeting. Discussed testing methods and how to implement them. Created a worksheet for testing. Will give students, family, and others the worksheet and let them test the game and give general feedback as long as find bugs.
+______________________________________________________________________________________________________________________________________
+Friday, Apr. 20th==>  Project Status: 0.7 Some corrections have been made to the game based on the recieved crtique from testers.  The IOS Version was uploaded today to our repository and fully works. Collision Boundaries were decreased on the obticles, Out of screen bug report fixed, Top Score and Score Text were moved to the top of the Game Screen as well as font size, Horn was taken off Stallion Sprite. Future fixes: Implementing volume integration within main menu to reduce and increase volume.
+______________________________________________________________________________________________________________________________________
+Friday, Apr. 24th==> 
