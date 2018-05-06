@@ -41,14 +41,22 @@ Friday, Mar. 30th==> Group met. Subgroups worked and discussed on their own part
 ______________________________________________________________________________________________________________________________________
 Tuesday, Apr. 3rd==> Group decided not to meet today.
 ______________________________________________________________________________________________________________________________________
-Tuesday, Apr. 6th==> Group meet. Disscussed game sounds on the project. Found flapping sounds and great game music to use at the main menu. Also discussed the implementation of a difficulty enhancment on higher score counts. Also discussed methods testing a little. 
+Friday, Apr. 6th==> Group meet. Disscussed game sounds on the project. Found flapping sounds and great game music to use at the main menu. Also discussed the implementation of a difficulty enhancment on higher score counts. Also discussed methods testing a little. 
 ______________________________________________________________________________________________________________________________________
-Friday, Apr. 10th==> Group didnt meet today. Everyone is busy with studying.Will meet on Friday.
+Tuesday, Apr. 10th==> Group didnt meet today. Everyone is busy with studying.Will meet on Friday.
 ______________________________________________________________________________________________________________________________________
 Friday, Apr. 13th==> Group didnt meet today as well due to multiple personal reasons. Will make it a mission to meet Tuesday for sure.
 ______________________________________________________________________________________________________________________________________
-Friday, Apr. 17th==> Only two members made it to the meeting. Discussed testing methods and how to implement them. Created a worksheet for testing. Will give students, family, and others the worksheet and let them test the game and give general feedback as long as find bugs.
+Tuesday, Apr. 17th==> Only two members made it to the meeting. Discussed testing methods and how to implement them. Created a worksheet for testing. Will give students, family, and others the worksheet and let them test the game and give general feedback as long as find bugs.
 ______________________________________________________________________________________________________________________________________
 Friday, Apr. 20th==>  Project Status: 0.7 Some corrections have been made to the game based on the recieved crtique from testers.  The IOS Version was uploaded today to our repository and fully works. Collision Boundaries were decreased on the obticles, Out of screen bug report fixed, Top Score and Score Text were moved to the top of the Game Screen as well as font size, Horn was taken off Stallion Sprite. Future fixes: Implementing volume integration within main menu to reduce and increase volume.
 ______________________________________________________________________________________________________________________________________
-Friday, Apr. 24th==> 
+Tuesday, Apr. 24th==> Group meet and discussed what needs to be done within the 3 meetings. Updates to the game should be complete on or before the 27th, The project report should be completed on or before the 1st  and the video should be completed and submittedon the 4th.
+______________________________________________________________________________________________________________________________________
+Friday, Apr. 27th==>  Group meet and worked on final revisions to the game. Work was done to the final report.
+______________________________________________________________________________________________________________________________________
+Tuesday, May. 1st==> Finished up the reoprt aside from the GANTT Chart. will upload and submit  on last meeting this coming Friday.
+______________________________________________________________________________________________________________________________________
+Friday, May. 4th==>  Game Finished. Video recorded and uploaded
+
+FLAPPY STALLIONS COMPLETE
